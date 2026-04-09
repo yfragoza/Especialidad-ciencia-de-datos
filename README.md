@@ -57,5 +57,5 @@ Este repositorio tiene como objetivo evidenciar mi progreso, aprendizaje y desar
 ## 👩‍💻 Autor
 
 **Yarimar Fragoza**
-Ingeniera en Informática
+##Ingeniera en Informática
 
