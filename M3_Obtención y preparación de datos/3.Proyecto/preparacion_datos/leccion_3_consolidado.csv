@@ -1,0 +1,26 @@
+cliente_id,edad,cantidad_compras,gasto_total,ciudad,categoria,canal_origen,estado_cliente
+1,56.0,14,89654.0,Santiago,Bronce,Web,Activo
+2,46.0,6,72435.0,Valparaíso,Plata,App,Activo
+3,32.0,2,,Concepción,Oro,Web,Inactivo
+4,60.0,12,278538.0,La Serena,Bronce,Marketplace,Activo
+5,25.0,5,8890.0,,Plata,App,Activo
+6,38.0,1,46606.0,,Oro,,
+7,56.0,12,261840.0,Santiago,Bronce,,
+8,36.0,10,146699.0,Rancagua,,,
+9,40.0,6,275936.0,Talca,Plata,,
+10,28.0,13,244931.0,Iquique,Oro,,
+11,28.0,12,244629.0,Antofagasta,Bronce,,
+12,41.0,9,210041.0,Puerto Montt,Plata,,
+13,53.0,1,179073.0,,,Web,Inactivo
+14,57.0,11,212624.0,,,App,Activo
+15,41.0,11,73148.0,,,Web,Activo
+16,20.0,10,257801.0,,,Marketplace,Inactivo
+17,39.0,12,129243.0,,,App,Activo
+18,19.0,12,256995.0,,,,
+19,41.0,14,159555.0,,,,
+20,61.0,14,53555.0,,,,
+18,33.0,3,40000.0,Arica,Bronce,Web,Activo
+19,,11,290000.0,Santiago,Oro,App,Activo
+20,61.0,5,1200000.0,Concepción,Plata,Marketplace,Inactivo
+21,29.0,4,85000.0,Talca,Bronce,Web,Activo
+21,29.0,4,85000.0,Talca,Bronce,Web,Activo

@@ -1,7 +1,7 @@
 Proyecto: Data Wrangling con Pandas.
 
 Link de acceso al proyecto en GitHub:
-[Aquí pegarás el link directo a la carpeta de esta actividad]
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/2a6042aabefad71e83327528724a106f127f34a6/M3_Obtenci%C3%B3n%20y%20preparaci%C3%B3n%20de%20datos/2.Actividades/L5%20_%20%F0%9F%92%AAAn%C3%A1lisis%20de%20caso%20_%20Data%20wrangling
 
 Estructura del proyecto:
 - data_wrangling/: código fuente del proyecto (main.py)

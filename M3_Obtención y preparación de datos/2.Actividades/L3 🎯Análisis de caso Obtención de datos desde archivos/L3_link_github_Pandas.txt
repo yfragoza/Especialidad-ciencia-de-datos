@@ -1,7 +1,7 @@
 Proyecto: Obtención de Datos desde Archivos con Pandas.
 
 Link de acceso al proyecto en GitHub:
-https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/main/M3_Obtención y preparación de datos/2.Actividades
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/main/M3_Obtenci%C3%B3n%20y%20preparaci%C3%B3n%20de%20datos/2.Actividades/L3%20%F0%9F%8E%AFAn%C3%A1lisis%20de%20caso%20Obtenci%C3%B3n%20de%20datos%20desde%20archivos
 
 Estructura del proyecto:
 - pandas_archivos/: código fuente del proyecto (main.py)

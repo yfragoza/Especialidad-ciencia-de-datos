@@ -1,0 +1,19 @@
+Proyecto: Preparación de Datos con Python
+
+Link de GitHub:
+[Aquí debes pegar el enlace al repositorio o a la carpeta del proyecto]
+
+Contenido del proyecto:
+- Script Python modularizado
+- Archivos intermedios por lección
+- Dataset final en CSV y Excel
+- Documento resumen del flujo de trabajo
+
+Incluye:
+- NumPy para generación de datos
+- Pandas para exploración, limpieza y transformación
+- Integración de múltiples fuentes
+- Manejo de nulos y outliers
+- Data Wrangling
+- Groupby, pivot, melt, merge y concat
+- Exportación final del dataset procesado

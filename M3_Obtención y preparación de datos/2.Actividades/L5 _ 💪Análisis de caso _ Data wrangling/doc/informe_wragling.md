@@ -91,6 +91,13 @@ Pandas facilita esta tarea al ofrecer funciones rápidas y legibles para limpiar
 
 ---
 
+## Anexos
+
+![Resultados_parte1](image.png)
+![Resuktado_parte2](image-1.png)
+
+
+
 ## 8. Conclusión
 
 La actividad permitió aplicar técnicas de Data Wrangling con Pandas para mejorar la calidad de un conjunto de datos. A través de la detección de nulos, eliminación de duplicados, transformación de variables y organización del DataFrame, se obtuvo una estructura lista para análisis y reportes.
