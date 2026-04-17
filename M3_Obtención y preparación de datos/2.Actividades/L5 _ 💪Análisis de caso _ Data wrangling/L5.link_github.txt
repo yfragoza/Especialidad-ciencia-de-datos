@@ -1,0 +1,18 @@
+Proyecto: Data Wrangling con Pandas.
+
+Link de acceso al proyecto en GitHub:
+[Aquí pegarás el link directo a la carpeta de esta actividad]
+
+Estructura del proyecto:
+- data_wrangling/: código fuente del proyecto (main.py)
+- doc/: informe detallado del análisis (informe_wrangling.md)
+- archivos generados: CSV y Excel antes y después del procesamiento
+
+El proyecto incluye:
+- Carga y exploración de datos
+- Detección e imputación de valores nulos
+- Eliminación de duplicados
+- Transformación de variables categóricas
+- Uso de groupby y agregación
+- Filtrado y reorganización del DataFrame
+- Exportación de datos procesados a CSV y Excel

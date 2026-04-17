@@ -1,0 +1,7 @@
+id,Cliente,Edad,Ciudad,Ingresos,Categoria,categoria_codigo
+5,Camila,28.0,Santiago,2100.0,Oro,3
+4,Pedro,22.0,Concepción,1800.0,Plata,2
+3,María,30.0,Desconocida,1716.6666666666667,Oro,3
+6,Diego,28.0,La Serena,1600.0,Oro,3
+2,Luis,28.0,Valparaíso,1500.0,Plata,2
+1,Ana,25.0,Santiago,1200.0,Bronce,1

@@ -1,0 +1,8 @@
+id,cliente,edad,ciudad,ingresos,categoria
+1,Ana,25.0,Santiago,1200.0,Bronce
+2,Luis,,Valparaíso,1500.0,Plata
+3,María,30.0,,,Oro
+4,Pedro,22.0,Concepción,1800.0,Plata
+5,Camila,28.0,Santiago,2100.0,Oro
+5,Camila,28.0,Santiago,2100.0,Oro
+6,Diego,,La Serena,1600.0,
