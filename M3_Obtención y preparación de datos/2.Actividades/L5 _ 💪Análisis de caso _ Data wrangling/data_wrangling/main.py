@@ -108,7 +108,7 @@ print(df)
 ruta_csv_limpio = os.path.join(ruta, "clientes_limpios.csv")
 ruta_excel_limpio = os.path.join(ruta, "clientes_limpios.xlsx")
 
-df.to_csv(ruta_csv_limpio, index=False)
+df.to_csv(ruta_csv_limpio, index=False, encoding="utf-8-sig")
 df.to_excel(ruta_excel_limpio, index=False)
 
 print("\n✅ Archivos exportados correctamente:")

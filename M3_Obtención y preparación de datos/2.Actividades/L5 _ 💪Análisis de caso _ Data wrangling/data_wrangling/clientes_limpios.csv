@@ -1,4 +1,4 @@
-id,Cliente,Edad,Ciudad,Ingresos,Categoria,categoria_codigo
+﻿id,Cliente,Edad,Ciudad,Ingresos,Categoria,categoria_codigo
 5,Camila,28.0,Santiago,2100.0,Oro,3
 4,Pedro,22.0,Concepción,1800.0,Plata,2
 3,María,30.0,Desconocida,1716.6666666666667,Oro,3
