@@ -67,6 +67,12 @@ Con NumPy:
 
 ---
 
-## 🔹 8. Conclusión
+## 🔹 8. Anexo
+
+![resultado_numpy](./image.png)
+
+---
+
+## 🔹 9. Conclusión
 
 NumPy permite trabajar con grandes volúmenes de datos de forma eficiente, facilitando el análisis y optimizando el rendimiento del código. Es una herramienta fundamental en ciencia de datos.

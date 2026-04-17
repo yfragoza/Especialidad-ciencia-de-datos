@@ -1,0 +1,24 @@
+Proyecto: Obtención de Datos desde Archivos con Pandas.
+
+Link de acceso al proyecto en GitHub:
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/main/M3_Obtención y preparación de datos/2.Actividades
+
+Estructura del proyecto:
+- pandas_archivos/: código fuente del proyecto (main.py)
+- doc/: documentación técnica del análisis (informe_pandas.md)
+- archivos generados: CSV y Excel antes y después del procesa
+
+El proyecto incluye:
+- Carga de datos desde CSV, Excel y tabla web
+- Limpieza de datos (nulos y duplicados)
+- Conversión de tipos de datos
+- Transformación y ordenamiento
+- Exportación a CSV y Excel
+- Ejemplo de datos antes y después de la limpieza
+- Conclusiones sobre la importancia de un proceso estructurado de obtención de datos
+
+Se utilizó Pandas para automatizar la obtención y procesamiento de datos, mejorando la eficiencia y reduciendo errores manuales.
+
+
+
+

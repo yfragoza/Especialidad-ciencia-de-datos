@@ -1,0 +1,5 @@
+id,Nombre,Edad,Ciudad,Ventas,Categoria
+4,Pedro,22.0,Concepción,2000.0,C
+3,María,30.0,Desconocida,1750.0,A
+2,Luis,24.75,Valparaíso,1500.0,B
+1,Ana,25.0,Santiago,1000.0,A

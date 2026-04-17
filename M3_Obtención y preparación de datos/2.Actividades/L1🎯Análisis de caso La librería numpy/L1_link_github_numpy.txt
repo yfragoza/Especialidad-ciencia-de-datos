@@ -1,0 +1,22 @@
+Proyecto: Análisis de Datos con NumPy.
+
+Link de acceso al proyecto en GitHub:
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/main/M3_Obtención y preparación de datos/2.Actividades/L1🎯Análisis de caso La librería numpy
+
+Estructura del proyecto:
+- numpy_analisis/: código fuente del análisis (main.py)
+- doc/: informe del análisis con explicación técnica
+
+El proyecto incluye:
+- Generación de datos financieros simulados
+- Análisis estadístico (promedio, máximo, mínimo)
+- Cálculo de variación porcentual
+- Aplicación de funciones matemáticas (log, exp, normalización)
+- Indexación y selección de datos
+- Uso de broadcasting para optimización
+
+Se utilizó la librería NumPy para optimizar el procesamiento de datos y mejorar la eficiencia del análisis.
+
+
+
+
