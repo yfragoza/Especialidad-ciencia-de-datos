@@ -1,6 +1,7 @@
-Proyecto: 
+Proyecto: Retail Analytics Pipeline
 
 Link del repositorio:
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/c3a390fd4b744bfc641751282f722cbdb218b217/M9_Big_Data/3.%20Proyectos
 
 
 Contenido del proyecto:

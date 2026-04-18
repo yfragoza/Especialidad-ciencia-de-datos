@@ -1,7 +1,7 @@
 Actividad: Métricas de desempeño de un algoritmo de regresión
 
 Link del repositorio:
-[Aquí pegarás el enlace del repositorio o de la carpeta]
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/41a5f22544703274d8b6f6c3135a0afc3aa48892/M6_M%C3%A1quina_Supervisado/2.Actividades/L6%F0%9F%8E%AFAn%C3%A1lisis%20de%20caso%20M%C3%A9tricas%20de%20desempe%C3%B1o%20de%20un%20algoritmo%20de%20regresi%C3%B3n
 
 Contenido:
 - Código Python

@@ -3,7 +3,7 @@ Imágenes de Ropa
 
 
 Link del repositorio:
-https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/22a7791f4967996766d43010646dc6af3d1f6341/M7_M%C3%A1quina_No_Supervisado/3.Proyecto
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/c3a390fd4b744bfc641751282f722cbdb218b217/M8_Deep_Learning/3.Proyecto
 
 Contenido del proyecto:
 - 
