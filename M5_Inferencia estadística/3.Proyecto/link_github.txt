@@ -1,7 +1,7 @@
 Proyecto: Análisis estadístico sobre hábitos saludables en jóvenes universitarios
 
 Link de GitHub:
-[Aquí pegarás el enlace del repositorio o de la carpeta del proyecto]
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/da0420e373790ce36e21a74e2d3d862a10737457/M5_Inferencia%20estad%C3%ADstica/3.Proyecto
 
 Contenido del proyecto:
 - Script Python funcional
