@@ -1,11 +1,7 @@
-Actividad: Reducción dimensional
+Proyecto: Técnicas de reducción dimensional
 
 Link del repositorio:
 https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/22a7791f4967996766d43010646dc6af3d1f6341/M7_M%C3%A1quina_No_Supervisado/2.Actividades/L3%F0%9F%8E%AFAn%C3%A1lisis%20de%20caso%20Reducci%C3%B3n%20dimensional
 
-Contenido:
-- Código Python
-- Dataset simulado
-- Resultados PCA y t-SNE
-- Dos visualizaciones 2D
-- Informe breve
+Contenido del proyecto:
+- 
