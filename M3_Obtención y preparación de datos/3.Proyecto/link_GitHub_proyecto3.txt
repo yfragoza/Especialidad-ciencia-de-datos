@@ -1,7 +1,7 @@
 Proyecto: Preparación de Datos con Python
 
 Link de GitHub:
-[Aquí debes pegar el enlace al repositorio o a la carpeta del proyecto]
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/a2ccf3c851398c0b8c3af60560273e2220e2b2b7/M3_Obtenci%C3%B3n%20y%20preparaci%C3%B3n%20de%20datos/3.Proyecto
 
 Contenido del proyecto:
 - Script Python modularizado
