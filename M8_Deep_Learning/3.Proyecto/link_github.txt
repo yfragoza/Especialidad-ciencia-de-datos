@@ -1,0 +1,9 @@
+Proyecto: Clasificador Inteligente de
+Imágenes de Ropa
+
+
+Link del repositorio:
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/22a7791f4967996766d43010646dc6af3d1f6341/M7_M%C3%A1quina_No_Supervisado/3.Proyecto
+
+Contenido del proyecto:
+- 
