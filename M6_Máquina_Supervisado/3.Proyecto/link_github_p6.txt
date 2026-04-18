@@ -1,0 +1,16 @@
+Proyecto: Predicción inteligente de gasto en clientes e-commerce
+
+Link del repositorio:
+[Aquí pegarás el enlace del repositorio o de la carpeta del proyecto]
+
+Contenido del proyecto:
+- Script Python funcional
+- Dataset simulado
+- Preprocesamiento completo
+- Comparación de algoritmos
+- Validación cruzada
+- Métricas de desempeño
+- Optimización de hiperparámetros
+- Modelo final justificado
+- Informe técnico
+- Visualizaciones

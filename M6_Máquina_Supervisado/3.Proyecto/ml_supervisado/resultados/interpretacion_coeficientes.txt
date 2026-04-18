@@ -1,0 +1,5 @@
+INTERPRETACIÓN CONCEPTUAL
+
+En regresión lineal, los coeficientes indican el cambio esperado en el monto de compra ante variaciones en las variables explicativas, manteniendo el resto constante.
+Las variables con efecto positivo aumentan el monto esperado y las de efecto negativo lo reducen.
+El modelo polinomial mejora relaciones no lineales, mientras Ridge y Lasso ayudan a controlar complejidad.

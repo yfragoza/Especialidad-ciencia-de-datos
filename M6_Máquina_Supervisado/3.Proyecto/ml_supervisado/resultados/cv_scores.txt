@@ -1,0 +1,12 @@
+VALIDACIÓN CRUZADA Y AJUSTE
+
+Regresion_Lineal: R2 CV mean=-0.9123, std=0.5354
+Ridge: R2 CV mean=0.5285, std=0.0714
+Lasso: R2 CV mean=0.4551, std=0.0835
+Gradient_Boosting: R2 CV mean=0.3223, std=0.0691
+Regresion_Polinomial: R2 CV mean=0.3904, std=0.0420
+
+
+COMPARACIÓN CON CLASIFICACIÓN
+Accuracy KNN clasificador (solo referencia conceptual): 0.4571
+Conclusión: clasificación no es la formulación adecuada porque el objetivo del negocio es un monto numérico.

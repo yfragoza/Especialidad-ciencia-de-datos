@@ -1,0 +1,9 @@
+MODELO FINAL ELEGIDO
+
+Mejor modelo según R2_test: Ridge
+Justificación: se elige el modelo con mejor desempeño predictivo y mayor robustez en validación.
+
+Mejores hiperparámetros:
+Ridge: {'model__alpha': 1.0}
+Lasso: {'model__alpha': 0.1}
+Gradient Boosting: {'model__learning_rate': 0.1, 'model__max_depth': 2, 'model__n_estimators': 150}
