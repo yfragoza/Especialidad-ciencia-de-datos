@@ -1,0 +1,11 @@
+Actividad: Reducción dimensional
+
+Link del repositorio:
+[Aquí pegarás el enlace del repositorio o de la carpeta]
+
+Contenido:
+- Código Python
+- Dataset simulado
+- Resultados PCA y t-SNE
+- Dos visualizaciones 2D
+- Informe breve
