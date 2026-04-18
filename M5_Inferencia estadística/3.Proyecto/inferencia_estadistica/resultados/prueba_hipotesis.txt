@@ -1,0 +1,11 @@
+PRUEBA DE HIPÓTESIS PARA LA MEDIA DE HORAS DE SUEÑO
+
+H0: mu = 7
+H1: mu != 7
+Estadístico t = -0.9883
+Valor-p = 0.324611
+Nivel de significancia alpha = 0.05
+Decisión: No rechazar H0
+
+Error tipo I: rechazar H0 siendo verdadera.
+Error tipo II: no rechazar H0 siendo falsa.

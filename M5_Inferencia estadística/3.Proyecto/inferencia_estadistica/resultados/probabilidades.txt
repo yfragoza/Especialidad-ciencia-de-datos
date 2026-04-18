@@ -1,0 +1,20 @@
+PROBABILIDADES BÁSICAS
+P(A): desayuna diario = 0.6000
+P(B): actividad física >= 4 días = 0.4200
+P(A ∩ B) = 0.2733
+P(A ∪ B) = 0.7467
+P(A complemento) = 0.4000
+
+Tipo de muestreo aplicado:
+Muestreo aleatorio simple simulado. Cada estudiante tiene la misma probabilidad de ser seleccionado.
+
+DISTRIBUCIONES DE PROBABILIDAD
+P(horas_sueno > 8) ~ Normal = 0.1471
+P(4 de 5 desayunan diario) ~ Binomial = 0.2592
+P(comida_rapida_dias = 3) ~ Poisson = 0.1906
+
+
+TEOREMA DEL LÍMITE CENTRAL
+n=5: media de medias=6.9365, desviación=0.4581
+n=30: media de medias=6.9172, desviación=0.1869
+n=50: media de medias=6.9167, desviación=0.1479

@@ -1,0 +1,15 @@
+INTERVALOS DE CONFIANZA PARA LA MEDIA
+
+Variable: horas_sueno
+Nivel 90%: (6.7771, 7.0562) | ancho=0.2791
+Nivel 95%: (6.7500, 7.0833) | ancho=0.3332
+Nivel 99%: (6.6967, 7.1367) | ancho=0.4400
+
+Variable: actividad_fisica_dias
+Nivel 90%: (2.9479, 3.3054) | ancho=0.3574
+Nivel 95%: (2.9133, 3.3400) | ancho=0.4267
+Nivel 99%: (2.8449, 3.4084) | ancho=0.5635
+
+Tamaño muestral 20 para horas_sueno al 95%: (6.4838, 7.2232) | ancho=0.7393
+Tamaño muestral 50 para horas_sueno al 95%: (6.3905, 6.9799) | ancho=0.5894
+Tamaño muestral 100 para horas_sueno al 95%: (6.8496, 7.2788) | ancho=0.4292

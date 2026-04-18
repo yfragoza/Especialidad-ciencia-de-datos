@@ -1,0 +1,20 @@
+Proyecto: Análisis estadístico sobre hábitos saludables en jóvenes universitarios
+
+Link de GitHub:
+[Aquí pegarás el enlace del repositorio o de la carpeta del proyecto]
+
+Contenido del proyecto:
+- Script Python funcional
+- Dataset simulado
+- Gráficos y tablas
+- Resultados estadísticos
+- Informe final integrador
+- README del proyecto
+
+Incluye:
+- Método científico
+- Probabilidad y muestreo
+- Distribuciones de probabilidad
+- Teorema del Límite Central
+- Intervalos de confianza
+- Pruebas de hipótesis

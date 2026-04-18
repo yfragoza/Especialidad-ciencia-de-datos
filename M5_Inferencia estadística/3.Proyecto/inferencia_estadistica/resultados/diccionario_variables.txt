@@ -1,0 +1,10 @@
+DICCIONARIO DE VARIABLES
+
+id_estudiante: identificador único del estudiante
+sexo: sexo del estudiante
+horas_sueno: promedio de horas dormidas por noche
+actividad_fisica_dias: cantidad de días con actividad física por semana
+porciones_frutas_verduras: porciones consumidas por día
+comida_rapida_dias: cantidad de días por semana que consume comida rápida
+nivel_estres: nivel de estrés percibido de 1 a 10
+desayuna_diario: indica si desayuna diariamente
