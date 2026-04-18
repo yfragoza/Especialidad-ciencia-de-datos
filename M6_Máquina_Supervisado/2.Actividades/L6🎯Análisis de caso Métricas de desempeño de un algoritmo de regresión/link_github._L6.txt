@@ -1,0 +1,11 @@
+Actividad: Métricas de desempeño de un algoritmo de regresión
+
+Link del repositorio:
+[Aquí pegarás el enlace del repositorio o de la carpeta]
+
+Contenido:
+- Código Python
+- Dataset del ejercicio
+- Métricas de desempeño
+- Imagen comparativa real vs predicho
+- Informe breve
