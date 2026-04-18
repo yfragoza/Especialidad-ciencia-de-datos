@@ -1,0 +1,301 @@
+cliente_id,edad,visitas_web,compras_realizadas,monto_compra,devoluciones,resena_score,categoria_favorita,canal_origen,cliente_frecuente
+1,56,32,11,42909.0,2,2.0,Deportes,Email,Sí
+2,69,59,0,180924.0,1,2.0,Deportes,Redes Sociales,Sí
+3,46,55,0,114846.0,2,3.0,Moda,Publicidad,Sí
+4,32,9,12,175702.0,0,5.0,Deportes,Redes Sociales,No
+5,60,41,2,48251.0,2,5.0,Tecnología,Email,No
+6,25,35,10,93028.0,0,2.0,Moda,Redes Sociales,No
+7,38,19,4,120236.0,2,3.0,Tecnología,Publicidad,No
+8,56,48,11,122114.0,3,3.0,Tecnología,Orgánico,No
+9,36,16,2,249367.5,0,4.0,Tecnología,Redes Sociales,Sí
+10,40,3,0,148028.0,2,5.0,Tecnología,Redes Sociales,Sí
+11,28,20,0,71957.0,3,1.0,Moda,Publicidad,No
+12,28,24,7,113593.0,0,5.0,Tecnología,Publicidad,No
+13,41,54,9,125413.0,3,5.0,Tecnología,Redes Sociales,Sí
+14,53,56,10,143150.0,1,4.0,Deportes,Email,No
+15,57,33,11,152023.0,1,1.0,Moda,Redes Sociales,No
+16,41,24,12,69391.0,0,4.0,Moda,Publicidad,Sí
+17,20,52,12,50965.0,2,1.0,Hogar,Orgánico,No
+18,39,11,11,177495.0,0,2.0,Moda,Orgánico,No
+19,19,49,14,134954.0,3,1.0,Moda,Email,No
+20,41,8,13,86318.0,2,4.0,Hogar,Redes Sociales,No
+21,61,36,1,189802.0,1,5.0,Moda,Orgánico,Sí
+22,47,38,12,125205.0,2,1.0,Moda,Redes Sociales,No
+23,55,40,2,173068.0,1,1.0,Moda,Publicidad,No
+24,19,20,1,123038.0,2,3.0,Moda,Orgánico,No
+25,38,35,2,212734.0,2,5.0,Hogar,Email,No
+26,50,48,6,198990.0,2,2.0,Moda,Publicidad,Sí
+27,29,25,0,108797.0,3,4.0,Moda,Email,No
+28,39,35,9,163721.0,3,2.0,Hogar,Publicidad,Sí
+29,61,25,7,149042.0,0,5.0,Deportes,Orgánico,No
+30,42,29,12,181588.0,0,1.0,Tecnología,Email,No
+31,66,18,9,76578.0,1,1.0,Deportes,Email,Sí
+32,44,46,9,150872.0,3,5.0,Hogar,Publicidad,No
+33,59,18,9,167629.0,1,1.0,Tecnología,Email,Sí
+34,45,2,13,40857.0,0,1.0,Hogar,Publicidad,Sí
+35,33,54,1,66753.0,1,1.0,Hogar,Publicidad,No
+36,32,35,2,28235.0,0,4.0,Moda,Publicidad,No
+37,64,16,8,118527.5,3,4.0,Tecnología,Publicidad,No
+38,68,41,6,152289.0,2,3.0,Moda,Orgánico,No
+39,61,36,3,187606.0,3,2.0,Tecnología,Publicidad,Sí
+40,69,33,9,123334.0,1,5.0,Hogar,Redes Sociales,No
+41,20,4,4,193288.0,1,5.0,Hogar,Email,Sí
+42,54,33,1,57895.0,3,5.0,Deportes,Redes Sociales,No
+43,68,14,12,43348.0,3,3.0,Tecnología,Orgánico,No
+44,24,21,10,117500.0,0,4.0,Moda,Redes Sociales,No
+45,38,48,12,137283.0,1,3.0,Deportes,Email,Sí
+46,26,20,7,118529.0,1,5.0,Deportes,Redes Sociales,No
+47,56,56,3,26965.0,3,2.0,Deportes,Orgánico,No
+48,35,8,8,115990.0,2,1.0,Moda,Publicidad,No
+49,21,7,4,61299.0,1,4.0,Deportes,Redes Sociales,Sí
+50,42,3,12,150135.0,2,4.0,Moda,Orgánico,Sí
+51,31,17,8,136497.0,3,3.0,Deportes,Orgánico,No
+52,67,33,3,194262.5,3,4.0,Moda,Email,No
+53,26,48,9,96876.0,0,5.0,Hogar,Email,No
+54,43,12,4,72335.0,1,5.0,Hogar,Redes Sociales,Sí
+55,19,59,8,117179.0,2,3.0,Hogar,Publicidad,No
+56,37,51,7,162981.0,0,5.0,Hogar,Orgánico,Sí
+57,45,22,2,75642.0,1,2.0,Hogar,Redes Sociales,No
+58,64,55,0,142682.0,0,5.0,Deportes,Orgánico,No
+59,24,22,2,96138.0,3,2.0,Deportes,Orgánico,Sí
+60,61,46,3,84321.0,1,5.0,Deportes,Publicidad,No
+61,25,30,1,115184.0,0,2.0,Moda,Publicidad,Sí
+62,64,38,0,73414.0,0,1.0,Moda,Redes Sociales,Sí
+63,52,38,6,95086.0,2,1.0,Moda,Publicidad,No
+64,31,45,7,66095.0,0,2.0,Moda,Publicidad,No
+65,34,51,6,208413.0,1,3.0,Hogar,Redes Sociales,No
+66,53,54,13,121587.0,1,5.0,Hogar,Publicidad,No
+67,67,8,4,88512.0,2,5.0,Hogar,Email,Sí
+68,57,27,11,129629.0,1,1.0,Tecnología,Orgánico,Sí
+69,21,27,0,114945.0,3,1.0,Deportes,Orgánico,Sí
+70,19,34,6,110056.0,1,3.0,Moda,Orgánico,Sí
+71,23,21,12,147638.0,1,4.0,Moda,Orgánico,Sí
+72,59,30,6,154088.0,0,2.0,Hogar,Redes Sociales,No
+73,21,33,8,96127.0,0,1.0,Moda,Orgánico,Sí
+74,46,28,2,94088.0,1,5.0,Moda,Orgánico,Sí
+75,35,47,8,107623.0,2,3.0,Deportes,Orgánico,No
+76,43,33,13,16414.0,0,2.0,Hogar,Orgánico,No
+77,61,5,0,51816.0,2,3.0,Deportes,Email,Sí
+78,51,48,0,181509.0,1,2.0,Tecnología,Orgánico,No
+79,27,19,13,118527.5,1,2.0,Tecnología,Email,No
+80,53,4,3,108793.0,3,1.0,Tecnología,Redes Sociales,Sí
+81,31,35,8,145945.0,0,3.0,Hogar,Publicidad,No
+82,48,49,5,134006.0,1,3.0,Moda,Orgánico,No
+83,65,17,12,258550.0,3,5.0,Hogar,Publicidad,No
+84,32,44,10,170381.0,0,5.0,Hogar,Publicidad,No
+85,25,28,2,114244.0,1,1.0,Moda,Redes Sociales,No
+86,31,30,0,77001.0,1,1.0,Deportes,Publicidad,No
+87,40,29,3,47710.0,0,4.0,Tecnología,Email,No
+88,57,46,11,129156.0,0,5.0,Deportes,Publicidad,No
+89,38,53,12,85964.0,0,2.0,Tecnología,Publicidad,No
+90,33,6,8,55999.0,1,3.0,Hogar,Publicidad,No
+91,62,35,2,90904.0,1,1.0,Tecnología,Orgánico,No
+92,35,41,11,71330.0,3,3.0,Hogar,Orgánico,Sí
+93,64,37,8,195921.0,2,3.0,Deportes,Email,Sí
+94,41,24,6,159674.0,0,4.0,Hogar,Email,No
+95,43,29,11,119641.0,1,5.0,Deportes,Orgánico,Sí
+96,42,49,13,186597.0,1,1.0,Moda,Email,Sí
+97,62,46,14,123482.0,0,3.0,Moda,Orgánico,Sí
+98,58,53,3,81242.0,2,1.0,Moda,Redes Sociales,Sí
+99,46,31,2,188541.0,0,2.0,Hogar,Publicidad,No
+100,32,35,9,144251.0,2,4.0,Moda,Publicidad,No
+101,62,33,14,73324.0,1,2.0,Tecnología,Email,No
+102,18,52,4,111435.0,2,1.0,Deportes,Orgánico,No
+103,42,21,4,80597.0,3,1.0,Deportes,Orgánico,No
+104,24,32,2,57774.0,1,5.0,Tecnología,Email,Sí
+105,26,23,11,161678.0,3,3.0,Hogar,Orgánico,No
+106,41,33,8,205924.0,0,3.0,Hogar,Redes Sociales,Sí
+107,18,3,3,57064.0,0,2.0,Deportes,Publicidad,No
+108,61,18,10,145334.0,0,4.0,Moda,Email,No
+109,25,25,4,90721.0,2,3.0,Hogar,Email,Sí
+110,41,42,3,98079.0,1,5.0,Hogar,Orgánico,No
+111,28,31,4,93342.0,0,2.0,Tecnología,Email,No
+112,68,54,6,81120.0,0,2.0,Tecnología,Redes Sociales,No
+113,34,58,8,122183.0,1,5.0,Moda,Orgánico,Sí
+114,25,3,6,82607.0,0,4.0,Hogar,Orgánico,No
+115,52,40,12,132171.0,3,5.0,Hogar,Orgánico,No
+116,52,46,4,117739.0,1,4.0,Tecnología,Orgánico,Sí
+117,50,24,9,109247.0,1,5.0,Hogar,Redes Sociales,Sí
+118,22,50,9,79160.0,1,5.0,Deportes,Orgánico,No
+119,59,32,6,94045.0,3,1.0,Tecnología,Email,Sí
+120,56,47,13,153993.0,1,2.0,Moda,Redes Sociales,No
+121,58,22,14,142541.0,3,5.0,Tecnología,Publicidad,No
+122,45,23,9,76010.0,1,5.0,Hogar,Publicidad,No
+123,24,2,4,124470.0,2,3.0,Moda,Email,Sí
+124,26,27,2,153812.0,0,2.0,Tecnología,Email,No
+125,25,42,6,44877.0,2,3.0,Deportes,Redes Sociales,Sí
+126,29,2,12,144451.0,0,2.0,Deportes,Publicidad,Sí
+127,51,26,10,90182.0,3,3.0,Tecnología,Publicidad,No
+128,50,17,10,145677.0,2,5.0,Deportes,Publicidad,No
+129,65,40,1,85653.0,1,5.0,Deportes,Publicidad,No
+130,40,33,14,118527.5,0,1.0,Deportes,Publicidad,No
+131,41,9,11,46761.0,0,3.0,Moda,Orgánico,Sí
+132,54,43,8,118527.5,2,4.0,Deportes,Email,Sí
+133,52,54,9,131688.0,3,1.0,Deportes,Orgánico,No
+134,61,48,9,79306.0,2,3.0,Deportes,Publicidad,No
+135,57,39,11,148737.0,3,3.0,Moda,Redes Sociales,No
+136,39,29,0,45232.0,3,1.0,Tecnología,Redes Sociales,Sí
+137,44,42,12,117026.0,0,5.0,Hogar,Publicidad,No
+138,52,55,5,65504.0,2,3.0,Deportes,Publicidad,Sí
+139,18,26,6,90667.0,2,5.0,Tecnología,Redes Sociales,Sí
+140,52,35,13,122133.0,3,1.0,Deportes,Orgánico,No
+141,54,50,12,81281.0,2,5.0,Moda,Orgánico,Sí
+142,64,25,7,102695.0,1,2.0,Tecnología,Publicidad,Sí
+143,31,24,9,165283.0,1,4.0,Moda,Orgánico,No
+144,20,13,8,94040.0,2,3.0,Deportes,Redes Sociales,No
+145,18,58,1,157606.0,2,4.0,Deportes,Orgánico,No
+146,22,7,10,69163.0,3,5.0,Moda,Publicidad,Sí
+147,43,57,9,143841.0,1,3.0,Hogar,Redes Sociales,Sí
+148,31,36,1,184871.0,1,5.0,Moda,Orgánico,Sí
+149,56,45,4,8776.0,0,2.0,Deportes,Email,Sí
+150,44,20,12,84140.0,3,1.0,Moda,Redes Sociales,No
+151,26,1,4,145968.0,0,3.0,Hogar,Redes Sociales,No
+152,32,8,5,110863.0,1,2.0,Moda,Email,No
+153,32,46,2,136702.0,3,2.0,Hogar,Email,No
+154,43,16,7,92821.0,2,3.0,Hogar,Redes Sociales,No
+155,59,14,12,123897.0,3,5.0,Moda,Email,No
+156,30,12,0,112995.0,2,2.0,Moda,Publicidad,No
+157,68,51,5,172550.0,2,4.0,Tecnología,Publicidad,No
+158,49,23,3,131449.0,3,2.0,Deportes,Publicidad,No
+159,56,15,0,135192.0,2,5.0,Hogar,Redes Sociales,Sí
+160,66,28,14,101466.0,0,5.0,Tecnología,Email,No
+161,69,34,6,98058.0,1,4.0,Moda,Email,No
+162,49,2,8,100535.0,2,2.0,Deportes,Orgánico,Sí
+163,21,32,12,137750.0,0,5.0,Tecnología,Orgánico,Sí
+164,47,23,3,101056.0,2,3.0,Hogar,Email,No
+165,54,22,3,133040.0,1,1.0,Tecnología,Email,No
+166,40,51,5,213393.0,0,1.0,Hogar,Email,No
+167,56,25,11,159201.0,1,1.0,Moda,Redes Sociales,No
+168,62,58,14,105329.0,1,2.0,Deportes,Email,Sí
+169,32,22,2,174055.0,0,4.0,Deportes,Orgánico,No
+170,60,58,12,101637.0,0,5.0,Deportes,Redes Sociales,Sí
+171,46,58,11,118527.5,0,3.0,Moda,Email,No
+172,53,22,5,74636.0,3,3.0,Hogar,Orgánico,No
+173,30,49,6,35814.0,0,2.0,Moda,Redes Sociales,Sí
+174,49,52,10,104182.0,0,1.0,Deportes,Email,Sí
+175,24,42,9,120829.0,0,2.0,Moda,Email,Sí
+176,68,6,9,195440.0,0,4.0,Moda,Email,No
+177,39,15,2,336780.0,2,4.0,Moda,Redes Sociales,Sí
+178,45,54,6,110140.0,3,5.0,Hogar,Orgánico,No
+179,19,43,13,157323.0,1,5.0,Tecnología,Orgánico,No
+180,59,37,2,20499.0,0,4.0,Tecnología,Publicidad,Sí
+181,62,33,12,130603.0,2,4.0,Moda,Email,Sí
+182,23,8,12,154689.0,2,4.0,Tecnología,Publicidad,Sí
+183,45,53,1,53464.0,2,2.0,Tecnología,Publicidad,No
+184,45,44,11,171469.0,1,4.0,Moda,Orgánico,Sí
+185,61,44,13,135232.0,0,3.0,Moda,Redes Sociales,No
+186,61,5,9,101312.0,3,1.0,Deportes,Redes Sociales,No
+187,37,39,3,148475.0,3,4.0,Tecnología,Orgánico,No
+188,47,4,11,222181.0,2,1.0,Hogar,Redes Sociales,No
+189,28,6,7,128184.0,1,2.0,Moda,Publicidad,No
+190,45,45,12,131170.0,1,1.0,Deportes,Email,No
+191,42,32,14,99329.0,1,2.0,Hogar,Orgánico,Sí
+192,56,52,8,81757.0,3,3.0,Tecnología,Email,Sí
+193,50,30,6,157365.0,2,2.0,Deportes,Redes Sociales,No
+194,18,47,0,81476.0,0,2.0,Moda,Email,No
+195,44,35,2,123220.0,3,5.0,Hogar,Redes Sociales,No
+196,69,55,12,98505.0,2,4.0,Moda,Redes Sociales,Sí
+197,30,40,11,141554.0,2,4.0,Tecnología,Publicidad,Sí
+198,58,52,13,135015.0,0,3.0,Hogar,Redes Sociales,No
+199,20,16,8,166689.0,0,3.0,Tecnología,Publicidad,Sí
+200,56,13,14,97049.0,0,4.0,Tecnología,Publicidad,No
+201,23,50,11,107856.0,1,5.0,Deportes,Publicidad,No
+202,25,42,0,75956.0,0,4.0,Moda,Orgánico,No
+203,44,30,8,100007.0,2,5.0,Hogar,Orgánico,No
+204,26,19,7,136979.0,0,3.0,Tecnología,Redes Sociales,No
+205,54,17,0,154064.0,2,1.0,Tecnología,Publicidad,Sí
+206,50,56,5,78503.0,3,3.0,Hogar,Orgánico,No
+207,68,19,4,159132.0,1,3.0,Tecnología,Publicidad,No
+208,59,28,5,181004.0,3,2.0,Deportes,Email,No
+209,61,58,9,138605.0,3,2.0,Deportes,Email,Sí
+210,41,55,11,204456.0,2,2.0,Deportes,Email,No
+211,32,26,12,85179.0,3,2.0,Deportes,Redes Sociales,No
+212,49,37,12,63991.0,2,5.0,Tecnología,Publicidad,Sí
+213,49,26,12,39958.0,0,4.0,Hogar,Email,Sí
+214,41,53,14,187322.0,0,1.0,Hogar,Orgánico,No
+215,58,23,4,149446.0,2,3.0,Hogar,Email,No
+216,69,9,5,117499.0,0,5.0,Hogar,Email,No
+217,66,12,4,132599.0,1,1.0,Moda,Email,Sí
+218,66,53,10,173382.5,3,5.0,Hogar,Redes Sociales,Sí
+219,69,1,11,230059.0,1,5.0,Moda,Orgánico,No
+220,29,58,4,125815.0,3,3.0,Moda,Publicidad,No
+221,56,58,3,124923.0,0,4.0,Deportes,Orgánico,No
+222,19,1,2,152659.0,1,2.0,Moda,Publicidad,No
+223,20,47,2,141645.0,0,4.0,Tecnología,Redes Sociales,No
+224,66,34,3,130075.0,3,3.0,Moda,Redes Sociales,No
+225,54,32,8,84429.0,2,3.0,Deportes,Redes Sociales,No
+226,66,54,1,141216.0,2,3.0,Moda,Redes Sociales,No
+227,34,48,14,204691.0,1,1.0,Tecnología,Publicidad,No
+228,66,25,8,180544.0,0,4.0,Tecnología,Email,No
+229,19,40,0,191693.0,0,4.0,Tecnología,Publicidad,No
+230,19,45,13,96995.0,1,5.0,Deportes,Orgánico,Sí
+231,45,53,14,75468.0,2,5.0,Deportes,Redes Sociales,No
+232,40,1,14,114340.0,3,5.0,Hogar,Redes Sociales,Sí
+233,54,16,0,122508.0,1,3.0,Deportes,Orgánico,No
+234,49,39,4,169239.0,3,4.0,Tecnología,Publicidad,No
+235,50,5,5,43839.0,2,3.0,Tecnología,Email,No
+236,18,22,5,188830.0,0,1.0,Deportes,Email,Sí
+237,36,29,2,112890.0,2,5.0,Moda,Orgánico,No
+238,19,55,6,100790.0,1,3.0,Deportes,Email,No
+239,61,3,8,74455.0,0,3.0,Deportes,Publicidad,Sí
+240,43,12,10,45531.0,1,1.0,Tecnología,Publicidad,Sí
+241,49,26,11,157043.0,1,2.0,Hogar,Orgánico,Sí
+242,23,16,9,123299.0,2,4.0,Tecnología,Publicidad,Sí
+243,49,51,7,61952.0,1,2.0,Hogar,Redes Sociales,No
+244,21,37,5,61721.0,2,5.0,Tecnología,Orgánico,No
+245,28,22,11,104890.0,0,3.0,Deportes,Publicidad,No
+246,34,57,7,195106.0,2,1.0,Tecnología,Orgánico,Sí
+247,55,29,11,108318.0,0,1.0,Tecnología,Email,Sí
+248,41,14,4,130897.5,2,4.0,Tecnología,Publicidad,No
+249,22,28,7,108942.0,3,2.0,Deportes,Redes Sociales,Sí
+250,69,5,9,107727.0,3,4.0,Deportes,Publicidad,No
+251,51,47,11,5000.0,1,3.0,Deportes,Orgánico,No
+252,23,49,3,117557.0,2,4.0,Deportes,Orgánico,No
+253,39,30,9,109608.0,2,1.0,Hogar,Publicidad,No
+254,28,46,7,151329.0,0,1.0,Hogar,Redes Sociales,Sí
+255,65,52,9,508007.5,1,5.0,Moda,Redes Sociales,Sí
+256,33,5,11,170695.0,2,5.0,Deportes,Redes Sociales,Sí
+257,50,12,1,107900.0,1,3.0,Hogar,Orgánico,No
+258,26,16,11,70206.0,3,2.0,Tecnología,Publicidad,Sí
+259,23,26,11,235801.0,2,5.0,Deportes,Email,No
+260,33,26,4,122665.0,2,3.0,Moda,Orgánico,No
+261,46,48,8,120627.0,1,5.0,Moda,Redes Sociales,No
+262,20,21,3,118914.0,2,4.0,Moda,Publicidad,Sí
+263,37,39,10,128914.0,1,5.0,Tecnología,Redes Sociales,Sí
+264,53,36,5,113504.0,2,4.0,Hogar,Email,No
+265,36,33,14,94185.0,0,2.0,Tecnología,Redes Sociales,No
+266,43,30,0,95391.0,1,3.0,Deportes,Redes Sociales,No
+267,20,37,8,118526.0,2,4.0,Moda,Email,Sí
+268,36,23,0,95546.0,3,1.0,Tecnología,Publicidad,No
+269,37,58,4,87922.0,2,1.0,Tecnología,Orgánico,No
+270,49,10,3,311972.5,3,4.0,Hogar,Publicidad,Sí
+271,24,54,12,108526.0,3,4.0,Hogar,Email,No
+272,69,5,11,187680.0,0,4.0,Moda,Redes Sociales,Sí
+273,58,36,12,5000.0,1,1.0,Tecnología,Publicidad,No
+274,50,34,12,169118.0,2,1.0,Tecnología,Orgánico,No
+275,57,52,13,176074.0,0,4.0,Hogar,Email,Sí
+276,56,31,2,26697.0,2,5.0,Tecnología,Publicidad,No
+277,35,10,12,104579.0,3,5.0,Tecnología,Orgánico,No
+278,57,58,5,103285.0,1,2.0,Tecnología,Email,No
+279,18,19,1,56662.0,2,3.0,Hogar,Orgánico,Sí
+280,28,58,2,84998.0,2,5.0,Moda,Email,Sí
+281,45,32,4,70024.0,3,1.0,Deportes,Redes Sociales,Sí
+282,42,1,14,198852.0,2,5.0,Moda,Publicidad,No
+283,67,56,8,162106.0,2,2.0,Deportes,Orgánico,Sí
+284,40,5,1,177220.0,3,2.0,Tecnología,Email,No
+285,48,45,9,152475.0,0,3.0,Moda,Orgánico,No
+286,47,4,7,69193.0,3,5.0,Deportes,Orgánico,Sí
+287,59,16,13,96397.0,0,1.0,Hogar,Publicidad,No
+288,52,24,1,142022.0,1,1.0,Hogar,Redes Sociales,Sí
+289,24,16,10,65004.0,0,4.0,Moda,Orgánico,No
+290,33,55,12,152085.0,0,1.0,Moda,Email,No
+291,43,2,4,109185.0,1,3.0,Tecnología,Email,Sí
+292,65,49,6,103133.0,0,3.0,Moda,Redes Sociales,Sí
+293,69,28,7,151993.0,3,1.0,Tecnología,Email,No
+294,66,32,0,139992.0,0,1.0,Tecnología,Redes Sociales,No
+295,19,27,5,118527.5,1,4.0,Hogar,Email,No
+296,18,20,0,172170.0,3,5.0,Hogar,Publicidad,No
+297,65,24,1,71352.0,1,4.0,Deportes,Orgánico,Sí
+298,29,12,14,147717.0,1,4.0,Hogar,Publicidad,Sí
+299,22,50,0,366725.0,2,1.0,Hogar,Orgánico,Sí
+300,54,35,10,106070.0,2,2.0,Moda,Orgánico,No
