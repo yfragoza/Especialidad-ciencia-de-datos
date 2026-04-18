@@ -1,7 +1,7 @@
 Proyecto: Predicción inteligente de gasto en clientes e-commerce
 
 Link del repositorio:
-[Aquí pegarás el enlace del repositorio o de la carpeta del proyecto]
+https://github.com/yfragoza/Especialidad-ciencia-de-datos/tree/9891ecadb7434348a9c949d86fb6505fc3b826a5/M6_M%C3%A1quina_Supervisado/3.Proyecto
 
 Contenido del proyecto:
 - Script Python funcional
